@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 
 # Me chamo Natália
+## Bem vindos ao meu GitHub
 
-Tenho 35 anos e estou em transição de carreira da área de fisioterapia para área de tecnologia.
-<p>Curso Sistemas de Informação na Faculdade Impacta de Tecnologia com previsão de conclusão em 12/2025
+<div style="display: flex; align-items: center;">
+<p>Tenho 35 anos e estou em transição de carreira da área de fisioterapia para área de tecnologia. 
+  Curso Sistemas de Informação na Faculdade Impacta de Tecnologia com previsão de conclusão em 12/2025.</p>
+<img src="https://github.com/NataliaCambui/NataliaCambui/assets/70337034/21acd0bc-a272-42b8-b52c-3fadbfe09c5d" alt="Sua Imagem" style="width: 200px; height: auto;">
+</div>
 
 ## Conecte- se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/natália-cambui-de-lima-2aa365216/)
