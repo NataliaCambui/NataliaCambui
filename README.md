@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=csharp&logoColor=white)
 
-## GitHub Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliacambui&theme=midnight-purple&show_icons=true&hide_title=True&hide=stars)
-
 ## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nataliacambui&repo=pyautogui&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/nataliacambui/pyautogui)
