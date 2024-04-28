@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=csharp&logoColor=white)
-
+![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=csharp&logoColor=purple)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=red)
 ## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nataliacambui&repo=pyautogui&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/nataliacambui/pyautogui)
